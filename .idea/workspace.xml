@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/search/vo/SearchRequest.java" line="35" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8515b774-7bef-43d2-b6a7-dd2ce4b4d0c3" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ad-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/ad-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/jieming-ad-service/target/" />
+    <ignored path="$PROJECT_DIR$/jieming-ad-service/ad-common/target/" />
+    <ignored path="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/target/" />
+    <ignored path="$PROJECT_DIR$/jieming-ad-service/ad-search/target/" />
+    <ignored path="$PROJECT_DIR$/jieming-ad-service/ad-dashboard/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/client/SponsorClientHystrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/client/SponsorClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/controller/SearchController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="47" column="31" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/client/vo/AdPlanGetRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>register</find>
+      <find>boolean register() throws Throwable</find>
+      <find>handleLevel3</find>
+      <find>handleLevel4</find>
+      <find>handleLevel2</find>
+      <find>InvalidData</find>
+      <find>imooc</find>
+      <find>kafka</find>
+      <find>getPosMap</find>
+      <find>tableTemplateMap</find>
+      <find>tableTemplate</find>
+      <find>put</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>jieming</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/constant/CommonStatus.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/constant/Constants.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/constant/CreativeMetrialType.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/controller/AdUnitOPController.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/vo/AdPlanGetRequest.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/vo/AdPlanRequest.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/vo/AdPlanResponse.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/dao/AdPlanRepository.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/dao/AdUnitRepository.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/dao/unit_condition/AdUnitDistrictRepository.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/dao/unit_condition/AdUnitItRepository.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/dao/unit_condition/AdUnitKeywordRepository.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/dao/unit_condition/CreativeUnitRepository.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/dao/CreativeRepository.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/service/IAdUnitService.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/service/impl/AdPlanServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/service/impl/AdUnitServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/service/impl/CreativeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/controller/AdPlanOPController.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/controller/SearchController.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/runner/BinlogRunner.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/index/DataLevel.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/index/DataTable.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/index/IndexAware.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/index/adplan/AdPlanObject.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/index/adplan/AdPlanIndex.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/index/adunit/AdUnitIndex.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/index/district/UnitDistrictIndex.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/index/interest/UnitItIndex.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/index/keyword/UnitKeywordIndex.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/index/IndexFileLoader.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/handler/AdLevelDataHandler.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/mysql/constant/Constant.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/mysql/constant/OpType.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/mysql/dto/TableTemplate.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/mysql/dto/ParseTemplate.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/mysql/BinlogClient.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/service/BinLogServiceTest.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/mysql/TemplateHolder.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/search/vo/feature/DistrictFeature.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/search/vo/SearchRequest.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/index/creativeunit/CreativeUnitIndex.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/index/creative/CreativeIndex.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/search/impl/SearchImpl.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/search/vo/SearchResponse.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/test/java/com/jieming/ad/search/SearchTest.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/mysql/listener/AggregationListener.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/sender/index/IndexSender.java" />
+        <option value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/mysql/listener/IncrementListener.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="618" />
+    <option name="y" value="317" />
+    <option name="width" value="1936" />
+    <option name="height" value="1099" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jieming-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="jieming-ad-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="jieming-ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="jieming-ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="jieming-ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="jieming-ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="jieming-ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ad" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="jieming-ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ad" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="jieming-ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ad" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="vo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="jieming-ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ad" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="jieming-ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\springcloudProjects\jieming-ad-spring-cloud\jieming-ad-service\ad-search\src\main\java\com\jieming\ad" />
+      <recent name="D:\springcloudProjects\jieming-ad-spring-cloud\jieming-ad-service\ad-search\src\main\java\com\jieming\ad\index" />
+      <recent name="D:\springcloudProjects\jieming-ad-spring-cloud\jieming-ad-service\ad-sponsor\src\main\java\com\jieming\ad\service\impl" />
+      <recent name="D:\springcloudProjects\jieming-ad-spring-cloud\jieming-ad-service\ad-sponsor\src\main\java\com\jieming\ad\constant" />
+      <recent name="D:\springcloudProjects\jieming-ad-spring-cloud\jieming-ad-service\ad-sponsor\src\main\java\com\jieming\ad" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SearchApplication">
+    <configuration name="SearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ad-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jieming.ad.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jieming.ad.search" />
+      <option name="MAIN_CLASS_NAME" value="com.jieming.ad.search.SearchTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest.fetchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ad-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jieming.ad.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jieming.ad.search" />
+      <option name="MAIN_CLASS_NAME" value="com.jieming.ad.search.SearchTest" />
+      <option name="METHOD_NAME" value="fetchTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ad-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jieming.ad.DashboardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ad-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jieming.ad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jieming.ad.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ad-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jieming.ad.SearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SponsorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ad-sponsor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jieming.ad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jieming.ad.SponsorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ad-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jieming.ad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jieming.ad.ZuulGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SponsorApplication" />
+        <item itemvalue="Spring Boot.ZuulGatewayApplication" />
+        <item itemvalue="Spring Boot.EurekaApplication" />
+        <item itemvalue="JUnit.SearchTest" />
+        <item itemvalue="JUnit.SearchTest.fetchTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8515b774-7bef-43d2-b6a7-dd2ce4b4d0c3" name="Default Changelist" comment="" />
+      <created>1564032609785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564032609785</updated>
+      <workItem from="1564032612572" duration="560000" />
+      <workItem from="1564033198869" duration="9714000" />
+      <workItem from="1564113908381" duration="20743000" />
+      <workItem from="1564198148356" duration="18258000" />
+      <workItem from="1564459016494" duration="22505000" />
+      <workItem from="1564545083524" duration="13489000" />
+      <workItem from="1564707196133" duration="23962000" />
+      <workItem from="1564802360022" duration="16767000" />
+      <workItem from="1564887650991" duration="1423000" />
+      <workItem from="1564992402034" duration="74000" />
+      <workItem from="1565067478723" duration="17578000" />
+      <workItem from="1565147164219" duration="32496000" />
+      <workItem from="1565240133913" duration="5462000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DumpDataService_dumpAdTableData - 2019.08.06 at 13h 42m 43s.xml">
+      <configuration name="DumpDataService.dumpAdTableData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DumpDataService_dumpAdTableData - 2019.08.06 at 13h 45m 04s.xml">
+      <configuration name="DumpDataService.dumpAdTableData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DumpDataService_dumpAdTableData - 2019.08.06 at 13h 47m 46s.xml">
+      <configuration name="DumpDataService.dumpAdTableData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DumpDataService_dumpAdTableData - 2019.08.06 at 13h 50m 30s.xml">
+      <configuration name="DumpDataService.dumpAdTableData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdPlanServiceTest_testGetAdPlan - 2019.08.06 at 14h 01m 12s.xml">
+      <configuration name="AdPlanServiceTest.testGetAdPlan" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SearchTest_fetchTest - 2019.08.06 at 15h 09m 51s.xml">
+      <configuration name="SearchTest.fetchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SearchTest_fetchTest - 2019.08.06 at 15h 11m 55s.xml">
+      <configuration name="SearchTest.fetchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SearchTest_fetchTest - 2019.08.06 at 15h 13m 35s.xml">
+      <configuration name="SearchTest.fetchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SearchTest_fetchTest - 2019.08.08 at 13h 25m 21s.xml">
+      <configuration name="SearchTest.fetchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SearchTest - 2019.08.08 at 13h 26m 56s.xml">
+      <configuration name="SearchTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="183031000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2823276" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28018224" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27107063" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.43052393" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297414" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2823276" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.6651481" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27107063" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.43052393" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297414" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/test/java/com/jieming/ad/service/DumpDataService.java</url>
+          <line>101</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/test/java/com/jieming/ad/service/DumpDataService.java</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/service/BinLogServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/sender/kafka/KafkaSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/mysql/TemplateHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-388">
+          <caret line="57" column="12" lean-forward="true" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/mysql/dto/MySqlRowData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="18" column="71" lean-forward="true" selection-start-line="18" selection-start-column="71" selection-end-line="18" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/mysql/dto/BinlogRowData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-common/src/main/java/com/jieming/ad/dump/table/AdUnitDistrictTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/mysql/BinlogConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/runner/BinlogRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/index/keyword/UnitKeywordIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31.jar!/com/alibaba/fastjson/JSON.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="380" column="5" selection-start-line="378" selection-start-column="84" selection-end-line="380" selection-end-column="5" />
+          <folding>
+            <element signature="e#14335#14336#0" expanded="true" />
+            <element signature="e#14392#14393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/search/vo/media/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/search/vo/media/Geo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/search/vo/media/Device.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/search/vo/feature/KeywordFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/search/vo/feature/ItFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/search/vo/feature/DistrictFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/search/vo/SearchResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/index/creative/CreativeIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/index/creativeunit/CreativeUnitIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3366">
+          <caret line="115" column="9" selection-start-line="115" selection-start-column="9" selection-end-line="115" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/index/adunit/AdUnitIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/index/adunit/AdUnitObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/search/ISearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/search/impl/SearchImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="177" column="14" lean-forward="true" selection-start-line="177" selection-start-column="14" selection-end-line="177" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/test/java/com/jieming/ad/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/search/vo/media/AdSlot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/test/java/com/jieming/ad/search/SearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="51" column="55" lean-forward="true" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-common/src/main/java/com/jieming/ad/dump/DConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-common/src/main/java/com/jieming/ad/advise/CommonResponseDataAdvise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-gateway/src/main/java/com/jieming/ad/filter/PreRequestFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <folding>
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-gateway/src/main/java/com/jieming/ad/filter/AccessLogFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-eureka/src/main/java/com/jieming/ad/EurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="3" column="62" lean-forward="true" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/controller/UserOPController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/SearchApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-sponsor/src/main/java/com/jieming/ad/SponsorApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/search/vo/SearchRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad-gateway/src/main/java/com/jieming/ad/ZuulGatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/mysql/BinlogClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="62" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/mysql/listener/AggregationListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="91" column="24" lean-forward="true" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/mysql/listener/Ilistener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/sender/ISender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/sender/index/IndexSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3332">
+          <caret line="31" column="60" lean-forward="true" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/mysql/listener/IncrementListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="66" column="91" selection-start-line="66" selection-start-column="91" selection-end-line="66" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/resources/template.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/client/vo/AdPlanGetRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/controller/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="47" column="31" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/client/SponsorClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-ad-service/ad-search/src/main/java/com/jieming/ad/client/SponsorClientHystrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ad-search</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
